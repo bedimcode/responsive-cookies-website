@@ -1,0 +1,200 @@
+========== HEADER & NAV ==========
+🔹.nav__logo
+Cookie
+
+🔹.nav__link
+Home - Featured - About us - Products - Contact us
+
+🔹.nav__button
+Order now
+
+🔹.nav__social-link
+https://www.instagram.com/
+https://www.facebook.com/
+https://api.whatsapp.com/send?phone=51987654321&text=Hello, more information!
+
+
+========== HOME SECTION ==========
+🔹.home__rating
+4.9 · +2k Happy Customers
+
+🔹.home__title
+Made with <br>
+<span>love</span>, baked <br>
+for you
+
+🔹.home__description
+Handcrafted cookies made with authentic, top-quality ingredients, 
+plenty of chocolate, and all the care and dedication of our kitchen.
+
+🔹.button
+View menu
+Contact us
+
+🔹.home__bag - alt
+Cookie paper bag filled with handcrafted cookies
+
+
+========== FEATURED SECTION ==========
+🔹.section__subtitle
+Most requested
+
+🔹.section__title
+Featured
+
+🔹.featured__badge 🔹.featured__name 🔹.featured__description
+Best sellers
+Classic chocolate
+Golden and crispy on the outside, soft on the inside, 
+with pieces of semi-sweet chocolate.
+
+Popular
+Double chocolate
+A rich, intense cocoa dough with pieces of white chocolate 
+that melt on the palate with every bite.
+
+Favorite
+Red velvet
+Smooth and velvety, with white chocolate chips and a hint 
+of vanilla for your enjoyment.
+
+🔹.featured__price
+$ 6.00
+
+🔹.featured__button
+Add to cart
+
+🔹.featured__img - alt
+Classic chocolate chip cookie
+Double chocolate cookie with white chocolate chips
+Red velvet cookie with white chocolate chips
+
+
+========== ABOUT SECTION ==========
+🔹.about__img - alt
+Baker shaping chocolate chip cookie dough in the kitchen
+
+🔹.section__subtitle
+Our story
+
+🔹.section__title
+We’ve been baking <br>
+with love since 2024
+
+🔹.about__description
+Cookie was born in a small kitchen with a simple idea: to bake cookies 
+just like the ones made at home. Every morning, we mix together quality 
+butter, chocolate, and flour, so that every bite brings a smile to your face.
+
+🔹.about__feature-title 🔹.about__feature-description
+Real ingredients
+No artificial preservatives or flavorings.
+
+Handmade
+Each cookie is shaped and baked in small batches.
+
+🔹.button
+Learn more
+
+
+========== PRODUCTS SECTION ==========
+🔹.section__subtitle
+Our menu
+
+🔹.section__title
+Products
+
+🔹.products__img - alt 🔹.products__name 🔹.products__price
+
+Classic chocolate chip cookie
+Classic
+$ 6.00
+
+Double chocolate cookie with white chocolate chips
+Double choco
+$ 7.00
+
+Red velvet cookie with white chocolate chips
+Red velvet
+$ 6.50
+
+Oatmeal raisin cookie
+Oats and raisins
+$ 5.50
+
+Peanut butter cookie
+Peanuts
+$ 6.00
+
+White chocolate matcha cookie
+White matcha
+$ 7.50
+
+🔹.products__add - aria-label
+Add to cart
+
+🔹.products__more
+View the full menu
+
+
+========== CONTACT SECTION ==========
+🔹.section__subtitle
+We’re here for you
+
+🔹.section__title
+Contact us
+
+🔹.contact__title 🔹.contact__info 🔹 - href
+WhatsApp
++51 987 654 321
+tel:+51987654321
+
+Mail
+hola@cookie.pe
+mailto:hola@cookie.pe
+
+Location
+Av. Spain 1234, Lima
+
+🔹.contact__title
+Schedule
+Mon - Sat · 8:00 am - 8:00 pm
+itemscope itemtype="https://schema.org/LocalBusiness"
+itemprop="openingHours" content="Mo-Sa 08:00-20:00"
+
+🔹.contact__button 🔹.contact__button - href
+Message us on WhatsApp
+https://api.whatsapp.com/send?phone=51987654321&text=Hello, more information!
+
+🔹.contact__map - iframe
+<!-- Insert your location into Google Maps (https://www.google.com/maps) -->
+<!-- Click Share -> Embed Map -> Copy HTML -->
+Cookie bakery location on Google Maps
+
+
+========== FOOTER ==========
+🔹.footer__logo
+Cookie
+
+🔹.footer__description
+Artisanal cookies baked every morning in Lima. 
+Made with love, to share.
+
+🔹.footer__subtitle 🔹.footer__link
+Navigation
+Home - Featured - About us - Products
+
+🔹.footer__subtitle
+Help
+Contact - Shipping - FAQs - Terms
+
+🔹.footer__subtitle
+Social
+
+🔹.footer__social-link
+https://www.instagram.com/
+https://www.facebook.com/
+https://api.whatsapp.com/send?phone=51987654321&text=Hello, more information!
+
+🔹.footer__copy
+© All Rights Reserved By Bedimcode
